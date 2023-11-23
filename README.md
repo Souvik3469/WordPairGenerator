@@ -1,16 +1,18 @@
-# wordpair_generator
+# WordPair Generator
+Basic wordpair generator using flutter which allows infinite scrolling and choose various wordpairs and view all those saved items.(First Flutter Project)
 
-A new Flutter project.
+## Authors
 
-## Getting Started
+- [@Souvik3469](https://github.com/Souvik3469)(Souvik Sen)
+<!--
+## Prototype Demo 
+https://tender-vault-frontend.vercel.app
+-->
 
-This project is a starting point for a Flutter application.
+### Add Wordpairs:
+![Add1](https://github.com/Souvik3469/WordPairGenerator/blob/main/public/add.png)
+![Add2](https://github.com/Souvik3469/WordPairGenerator/blob/main/public/add1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Saved Wordpairs:
+![Saved1](https://github.com/Souvik3469/WordPairGenerator/blob/main/public/saved1.png)
+![Saved2](https://github.com/Souvik3469/WordPairGenerator/blob/main/public/saved2.jpg)
